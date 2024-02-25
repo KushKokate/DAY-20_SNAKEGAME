@@ -3,7 +3,7 @@ from snake import Snake
 import time
 
 screen = Screen()
-screen.setup(600, 600)
+screen.setup(600, 900)
 screen.bgcolor('black')
 screen.tracer(0)
 segments = []
